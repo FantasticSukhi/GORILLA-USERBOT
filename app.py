@@ -4,6 +4,6 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-   return 'Hello, Bitch!'
+   return 'Hello, Chutiye!'
 
 os.system("python3 -m PyroKar &")
